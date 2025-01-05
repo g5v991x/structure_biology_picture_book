@@ -4,6 +4,7 @@ title:  "Cat test 00"
 date:   2025-01-03 17:36:14 -0800
 categories: cats
 ---
+
 {::nomarkdown}
 <div class='imageWrapper'>
 <img src="{{ site.baseurl }}/assets/images/kasia_00.jpg" alt="Kasia">
@@ -35,6 +36,8 @@ categories: cats
 
 </svg>
 </div>
+{:/}
+
 
 
 This is Kasia.

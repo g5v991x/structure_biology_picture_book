@@ -60,19 +60,13 @@
 .contour{
 	opacity:0;
 	fill: rgba(100, 100, 100, 1);
-    // stroke:white;
-    // stroke-width:50px;
 }
 
 .contour:hover {
 	opacity:1;
-    // filter: drop-shadow(10px 10px 0px black);
-    // filter: blur(5px);
 	mix-blend-mode: lighten;
     stroke:white;
 	fill: rgba(100, 100, 100, 1);
-	// fill: rgba(255, 255, 255, 1);
-    // stroke-width:10px;
 }
 
 .contour:hover ~ .textbox{
