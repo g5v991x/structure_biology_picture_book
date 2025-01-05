@@ -1,6 +1,7 @@
 .imageWrapper {
   width: $on-desktop;
   position: relative;
+  padding-bottom: 10px;
 }
 
 .imageWrapper img {
@@ -23,12 +24,31 @@
   opacity:1;
 }
 
+.shape {
+  cursor: pointer;
+  mix-blend-mode: color-dodge;
+  fill: rgba(50, 50, 50, 1);
+  transition: all 0.5s;
+}
+
+.path{
+  filter: blur(3px);
+}
+
+.background{
+  transition: all 0.5s;
+  mix-blend-mode: color;
+  fill:white;
+}
+
+
 .textbox{
+  transition: all 0.5s;
   opacity:0;
 }
 
 .rect0{
-  fill:gray;
+  fill:rgba(200, 200, 200, .8);
   stroke-width:1;
   stroke:black;
 }
@@ -37,19 +57,44 @@
   fill:black;
 }
 
-.circle0{
+.contour{
 	opacity:0;
-	fill: rgba(100, 100, 100, .5);
-    stroke:white;
+	fill: rgba(100, 100, 100, 1);
+    // stroke:white;
+    // stroke-width:50px;
 }
 
-.circle0:hover{
+.contour:hover {
 	opacity:1;
+    // filter: drop-shadow(10px 10px 0px black);
+    // filter: blur(5px);
 	mix-blend-mode: lighten;
-	filter: drop-shadow(0 0 4px rgba(200, 200, 200, 1.0));
+    stroke:white;
+	fill: rgba(100, 100, 100, 1);
+	// fill: rgba(255, 255, 255, 1);
+    // stroke-width:10px;
 }
 
-.circle0:hover ~ .textbox{
+.contour:hover ~ .textbox{
   opacity:1;
 }
 
+.contour:hover ~ .rect1{
+  opacity:0;
+  fill:green;
+}
+
+
+.overlay {
+  position: absolute;
+  bottom: 10px;
+  background: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  transition: .5s ease;
+  // opacity:0;
+  color: white;
+  font-size: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
