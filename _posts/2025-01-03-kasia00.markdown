@@ -7,7 +7,7 @@ categories: cats
 {::nomarkdown}
 
 <div class='imageWrapper'>
-<img src="/assets/images/kasia_00.jpg" alt="Kasia">
+<img src="{{ site.baseurl }}/assets/images/kasia_00.jpg" alt="Kasia">
 <svg viewBox="0 0 160 90" class='image-area'>
 <a xlink:href="/404.html">
 <g class="circle0" transform="translate(-2893.5,-1634.6049)">
