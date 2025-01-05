@@ -1,0 +1,51 @@
+<footer class="site-footer">
+
+
+<script>
+for (let i=0; i<10; i++){
+  const shape = document.querySelector('#select_'+i);
+  const mask = document.querySelector('#background_'+i);
+  const text = document.querySelector('#textbox_'+i);
+  text.style.opacity=0;
+  mask.setAttribute('opacity',0);
+  shape.setAttribute('opacity',0);
+
+  shape.addEventListener('mouseover', () => {
+      text.style.opacity=1;
+      mask.setAttribute('opacity',1);
+      shape.setAttribute('opacity',1);
+  });
+
+  shape.addEventListener('mouseout', () => {
+      text.style.opacity=0;
+      mask.setAttribute('opacity',0);
+      shape.setAttribute('opacity',0);
+  });
+}
+</script>
+
+<div class="wrapper">
+
+  <h2 class="footer-heading">{{ site.title }}</h2>
+
+  <div class="footer-col-wrapper">
+    <div class="footer-col  footer-col-1">
+      <ul class="contact-list">
+        <li>{{ site.title }}</li>
+        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-col  footer-col-2">
+      <ul class="social-media-list">
+      </ul>
+    </div>
+
+    <div class="footer-col  footer-col-3">
+      <p class="text">{{ site.description }}</p>
+    </div>
+  </div>
+
+</div>
+
+</footer>
