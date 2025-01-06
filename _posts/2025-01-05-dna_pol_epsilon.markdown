@@ -29,7 +29,7 @@ permalink: /posts/dna_pol_epsilon
 <use href="#path_0" class="shape" id="select_0"/>
 <use href="#path_1" class="shape" id="select_1"/>
 <use href="#path_2" class="shape" id="select_2"/>
-<use href="#path_3" class="shape" id="select_3"/>
+<a href="{{site.baseurl}}/posts/dna_mcm"><use href="#path_3" class="shape" id="select_3"/></a>
 </svg>
 <!--#######################-->
 <div class="overlay" id="textbox_0" ><b> Proliferating cell nuclear antigen  (PCNA) </b></div>

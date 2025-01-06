@@ -27,8 +27,8 @@ permalink: /posts/dna_mcm
 <rect mask="url(#myMask_3)" class="background" id="background_3"/>
 <!--#######################-->
 <use href="#path_0" class="shape" id="select_0"/>
-<a href="/posts/dna_pol_alpha"><use href="#path_1" class="shape" id="select_1"/></a>
-<a href="/posts/dna_pol_epsilon"><use href="#path_2" class="shape" id="select_2"/></a>
+<a href="{{site.baseurl}}/posts/dna_pol_alpha"><use href="#path_1" class="shape" id="select_1"/></a>
+<a href="{{site.baseurl}}/posts/dna_pol_epsilon"><use href="#path_2" class="shape" id="select_2"/></a>
 <use href="#path_3" class="shape" id="select_3"/>
 </svg>
 <!--#######################-->

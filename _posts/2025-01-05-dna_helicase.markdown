@@ -33,8 +33,8 @@ permalink: /posts/dna_helicase
 <rect mask="url(#myMask_4)" class="background" id="background_4"/>
 <rect mask="url(#myMask_5)" class="background" id="background_5"/>
 <!--#######################-->
-<a href="/posts/dna_mcm"><use href="#path_0" class="shape" id="select_0"/></a>
-<a href="/posts/dna_pol_alpha"><use href="#path_1" class="shape" id="select_1"/></a>
+<a href="{{site.baseurl}}/posts/dna_mcm"><use href="#path_0" class="shape" id="select_0"/></a>
+<a href="{{site.baseurl}}/posts/dna_pol_alpha"><use href="#path_1" class="shape" id="select_1"/></a>
 <use href="#path_2" class="shape" id="select_2"/>
 <use href="#path_3" class="shape" id="select_3"/>
 <use href="#path_4" class="shape" id="select_4"/>

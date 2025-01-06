@@ -38,10 +38,10 @@ permalink: /posts/dna_replication
 <rect mask="url(#myMask_6)" class="background" id="background_6"/>
 <rect mask="url(#myMask_7)" class="background" id="background_7"/>
 <!--#######################-->
-<a href="/posts/dna_helicase"><use href="#path_0" class="shape" id="select_0"/></a>
-<a href="/posts/dna_pol_epsilon"><use href="#path_1" class="shape" id="select_1"/></a>
-<a href="/posts/dna_pol_alpha"><use href="#path_2" class="shape" id="select_2"/></a>
-<a href="/posts/dna_pol_delta"><use href="#path_3" class="shape" id="select_3"/></a>
+<a href="{{site.baseurl}}/posts/dna_helicase"><use href="#path_0" class="shape" id="select_0"/></a>
+<a href="{{site.baseurl}}/posts/dna_pol_epsilon"><use href="#path_1" class="shape" id="select_1"/></a>
+<a href="{{site.baseurl}}/posts/dna_pol_alpha"><use href="#path_2" class="shape" id="select_2"/></a>
+<a href="{{site.baseurl}}/posts/dna_pol_delta"><use href="#path_3" class="shape" id="select_3"/></a>
 <use href="#path_4" class="shape" id="select_4"/>
 <use href="#path_5" class="shape" id="select_5"/>
 <use href="#path_6" class="shape" id="select_6"/>
