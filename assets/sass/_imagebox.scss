@@ -15,12 +15,7 @@
   width: 100%; //calc(2*var(--rad));
 
   position: absolute;
-  // filter: drop-shadow(0 0 40px cyan);
-  // transition: .4s;
-  // mix-blend-mode: lighten; /* work the best with the default black fill of svg shapes */
-  // cursor: pointer;
   background: rgba(0, 0, 0, 0.0);
-  // color: #f1f1f1;
   opacity:1;
 }
 
@@ -36,11 +31,12 @@
 }
 
 .background{
+  width:100%;
+  height:100%;
   transition: all 0.5s;
   mix-blend-mode: color;
   fill:white;
 }
-
 
 .textbox{
   transition: all 0.5s;
@@ -56,28 +52,6 @@
   font-size:4px;
   fill:black;
 }
-/*
-.contour{
-	opacity:0;
-	fill: rgba(100, 100, 100, 1);
-}
-
-.contour:hover {
-	opacity:1;
-	mix-blend-mode: lighten;
-    stroke:white;
-	fill: rgba(100, 100, 100, 1);
-}
-
-.contour:hover ~ .textbox{
-  opacity:1;
-}
-
-.contour:hover ~ .rect1{
-  opacity:0;
-  fill:green;
-}*/
-
 
 .overlay {
   position: absolute;
@@ -93,17 +67,16 @@
   text-align: center;
 }
 
-
 .circle0{
-	opacity:0;
-	fill: rgba(100, 100, 100, .5);
-    stroke:white;
+  opacity:0;
+  fill: rgba(100, 100, 100, .5);
+  stroke:white;
 }
 
 .circle0:hover{
-	opacity:1;
-	mix-blend-mode: lighten;
-	filter: drop-shadow(0 0 4px rgba(200, 200, 200, 1.0));
+  opacity:1;
+  mix-blend-mode: lighten;
+  filter: drop-shadow(0 0 4px rgba(200, 200, 200, 1.0));
 }
 
 .circle0:hover ~ .textbox{

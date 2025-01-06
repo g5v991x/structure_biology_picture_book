@@ -3,6 +3,7 @@ layout: post
 title:  "Cat test 00"
 date:   2025-01-03 17:36:14 -0800
 categories: cats
+permalink: /posts/kasia
 ---
 {::nomarkdown}
 

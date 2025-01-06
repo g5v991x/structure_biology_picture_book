@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Minichromosome Maintenance Complex (MCM)"
+date:   2025-01-05 00:00:00 0000
+categories: structure_biology
+permalink: /posts/dna_mcm
+---
+{::nomarkdown}
+<div class='imageWrapper'>
+<img class="image0" src="{{ site.baseurl }}/assets/images/dna002.jpg" alt="mcm">
+<svg viewBox="0 0 160 90" class='image-area'>
+<!--#######################-->
+<defs>
+<mask id="myMask_0"><rect width="100%" height="100%" fill="white"/>
+  <path id="path_0" class="path" d="m121 0.35 16 46-20 40-22 3.2h-23l7.1-11-9.4-12-8.7-9.6-0.53 0.18-11-12 15-1.4 3.9 6.9-4.6 4.4 7.8 12 4.4-8.5 8.5-9.4-4.8-13 2.3-7.1-5.1-5.1-13 3.2-3.2 0.35-6.2-15 6-13z"/></mask>
+<mask id="myMask_1"><rect width="100%" height="100%" fill="white"/>
+  <path id="path_1" class="path" d="m160 47-15-11-15-1.1-6.4-21 6.9-14 29-0.53z"/></mask>
+<mask id="myMask_2"><rect width="100%" height="100%" fill="white"/>
+  <path id="path_2" class="path" d="m55 21 5.7 1.2 4.8 22-17 3.9 30 28-4.8 13-74 0.35 0.35-90 7-0.36 1.4 9.2 12 3.1-1.8 11-17 3 16 15 0.069 9.6-12-5.9-0.53 18 23 2.5 16-23-4.6-8.7 6.4-6.4 2.5-7.6z"/></mask>
+<mask id="myMask_3"><rect width="100%" height="100%" fill="white"/>
+  <path id="path_3" class="path" d="m7.1-0.71 2 11 11 1.6s-1.8 13-1.8 13-18-0.89-18-0.89l0.89 12 15 3.4v8.7l-17-8.3 0.35 24 28 2.7 15-24 8.9 21 8 5.1 9.8-0.18 9.9-15-4.8-12 0.89-5.5 12 2.5-1.1-10-12-4.6-15 3.9 5.1 15 3.4 11-12 7.3-17-24 10-14 9-1.8-3.2-7.6 6.9-12z"/></mask>
+</defs>
+<!--#######################-->
+<rect mask="url(#myMask_0)" class="background" id="background_0"/>
+<rect mask="url(#myMask_1)" class="background" id="background_1"/>
+<rect mask="url(#myMask_2)" class="background" id="background_2"/>
+<rect mask="url(#myMask_3)" class="background" id="background_3"/>
+<!--#######################-->
+<use href="#path_0" class="shape" id="select_0"/>
+<a href="/posts/dna_pol_alpha"><use href="#path_1" class="shape" id="select_1"/></a>
+<a href="/posts/dna_pol_epsilon"><use href="#path_2" class="shape" id="select_2"/></a>
+<use href="#path_3" class="shape" id="select_3"/>
+</svg>
+<!--#######################-->
+<div class="overlay" id="textbox_0" ><b> Minichromosome Maintenance Complex (MCM) </b></div>
+<div class="overlay" id="textbox_1" ><b>DNA Polymerase alpha (Pol-&alpha;)</b> - <small>
+initialize replication  <sub><i> &ensp; ( click to see more ... )</i></sub></small></div>
+<div class="overlay" id="textbox_2" ><b> DNA Polymerase epsilon (Pol-&epsilon;)</b> - <small>
+replicate leading strand  <sub><i> &ensp; ( click to see more ... )</i></sub></small></div>
+<div class="overlay" id="textbox_3" ><b> Lagging DNA strand</b></div>
+</div>
+{:/}
+
+MCM is a component of the DNA helicase. The six MCM subunits assemble into an AAA+ ATPase that uses the energy of ATP to unwind DNA double helix. The AAA+ ATPase is a common protein fold for energy dependent mechanical movement, which is also seen in proteins like proteasome and microtubule associated motors.
+
