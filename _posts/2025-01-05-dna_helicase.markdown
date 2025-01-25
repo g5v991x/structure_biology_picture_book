@@ -52,6 +52,8 @@ initialize replication  <sub><i> &ensp; ( click to see more ... )</i></sub></sma
 {:/}
 
 
-DNA helicase consists of three main parts, Cdc45, MCM, and GINS. It unwinds the double strand DNA, producing the leading and lagging strands. The leading strand passes through a ring formed by MCM, and travels toward Pol-delta, while the lagging strand travels along the edge of the helicase and can be captured by the primase and Pol-alpha.
+DNA helicase consists of three main parts, Cdc45, MCM, and GINS. It unwinds the double strand DNA, producing the leading and lagging strands. The leading strand passes through a ring formed by MCM, and travels toward Pol-&delta;, while the lagging strand travels along the edge of the helicase and can be captured by the primase and Pol-&alpha;.
 
+## Notes: ##
+- Experimental data has shown that leading strand DNA passes through MCM and enters Pol-epsilon, but the lagging strand is more dynamic, and the exact path it follows from the helicase to the primase is not as clear. The path shown above is mostly imaginary.
 

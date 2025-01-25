@@ -14,13 +14,7 @@ input[type='checkbox'] {
 	color:black;
 }*/
 .lbl-toggle {
-/* 	display: block; */
-/* 	font-weight: bold; */
-/* 	font-family: monospace; */
-/* 	font-size: 1.2rem; */
-/* 	text-transform: uppercase; */
 	text-align: left;
-/* 	padding: .5rem; */
 	color: black;
 /* 	background: #0069ff; */
 	cursor: pointer;
@@ -53,7 +47,7 @@ input[type='checkbox'] {
 /* 	transition: max-height .25s ease-in-out; */
 }
 
-.toggle:checked + .lbl-toggle ~ .collapsible-content {
+.toggle:checked + .lbl-toggle + .collapsible-content {
 	max-height: 350px;
 }
 /*
@@ -68,7 +62,7 @@ input[type='checkbox'] {
 	border-bottom-left-radius: 7px;
 	border-bottom-right-radius: 7px;
 /* 	padding: .5rem 1rem; */
-	padding-left: 10px;
+	padding-left: 30px;
 }
 
 .collapsible-content p {
@@ -85,38 +79,80 @@ input[type='checkbox'] {
 	<div class="collapsible-content">
 		<div class="content-inner">
 
-			<input id="check01" class="toggle" type="checkbox">
-			<label for="check01" class="lbl-toggle"> </label> <a href="{{site.baseurl}}/posts/dna_replication">DNA replication</a>
-			<div class="collapsible-content">
-				<div class="content-inner">
-					<p><a href="{{site.baseurl}}/posts/dna_helicase">  &emsp; DNA helicase</a></p>
-					<p><a href="{{site.baseurl}}/posts/dna_pol_alpha">  &emsp; DNA Pol-&alpha;</a></p>
-					<p><a href="{{site.baseurl}}/posts/dna_pol_epsilon">  &emsp; DNA Pol-&epsilon;</a></p>
-					<p><a href="{{site.baseurl}}/posts/dna_pol_delta">  &emsp; DNA Pol-&delta;</a></p>
-				</div>
-			</div>
+			<p> <a href="{{site.baseurl}}/posts/dna_replication">DNA replication</a></p>
+			<p> <a href="{{site.baseurl}}/posts/transcription">Transcription</a></p>
+			<p> <a href="{{site.baseurl}}/posts/translation">Translation</a></p>
+		</div>
+	</div>
 
+<!--#####################-->
+	<input id="check01" class="toggle" type="checkbox">
+	<label for="check01" class="lbl-toggle"> Cytoskeleton </label>
+	<div class="collapsible-content">
+		<div class="content-inner">
 
-			<input id="check011" class="toggle" type="checkbox">
-			<label for="check011" class="lbl-toggle"> Transcription </label>
-			<div class="collapsible-content">
-				<div class="content-inner">
-					<p><a href="{{site.baseurl}}/posts/rna_polii_elongation_0">  &emsp; Elongation </a></p>
-				</div>
-			</div>
-
-			<p>&emsp; Translation</p>
+			<p>Microtubule</p>
+			<p>Actin</p>
 		</div>
 	</div>
 
 <!--#####################-->
 	<input id="check02" class="toggle" type="checkbox">
-	<label for="check02" class="lbl-toggle"> Cytoskeleton </label>
+	<label for="check02" class="lbl-toggle"> Photosynthesis </label>
 	<div class="collapsible-content">
 		<div class="content-inner">
 
-			<p>&emsp; Microtubule</p>
-			<p>&emsp; Actin</p>
+			<p>Photosystems</p>
+			<p>Carbon fixation</p>
 		</div>
 	</div>
+
+<!--#####################-->
+	<input id="check03" class="toggle" type="checkbox">
+	<label for="check03" class="lbl-toggle"> Metabolism </label>
+	<div class="collapsible-content">
+		<div class="content-inner">
+
+			<p>Electron transport chain</p>
+		</div>
+	</div>
+
+<!--#####################-->
+	<input id="check04" class="toggle" type="checkbox">
+	<label for="check04" class="lbl-toggle"> Protein folding </label>
+	<div class="collapsible-content">
+		<div class="content-inner">
+
+			<p>Secondary structures</p>
+			<p>Chaperone</p>
+			<p>Proteasome</p>
+			<p>Misfolded proteins</p>
+		</div>
+	</div>
+
+<!--#####################-->
+	<input id="check05" class="toggle" type="checkbox">
+	<label for="check05" class="lbl-toggle"> Membrane proteins </label>
+	<div class="collapsible-content">
+		<div class="content-inner">
+
+			<p>Ion channels</p>
+			<p>GPCR</p>
+		</div>
+	</div>
+
+<!--#####################-->
+	<input id="check06" class="toggle" type="checkbox">
+	<label for="check06" class="lbl-toggle"> Viruses </label>
+	<div class="collapsible-content">
+		<div class="content-inner">
+
+			<p>Bacteriophage</p>
+		</div>
+	</div>
+
+
+
+
+
 </div>

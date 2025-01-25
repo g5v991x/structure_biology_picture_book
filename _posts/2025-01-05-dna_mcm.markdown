@@ -43,3 +43,6 @@ replicate leading strand  <sub><i> &ensp; ( click to see more ... )</i></sub></s
 
 MCM is a component of the DNA helicase. The six MCM subunits assemble into an AAA+ ATPase that uses the energy of ATP to unwind DNA double helix. The AAA+ ATPase is a common protein fold for energy dependent mechanical movement, which is also seen in proteins like proteasome and microtubule associated motors.
 
+
+Note:
+- Cross reference: dynein; proteasome.

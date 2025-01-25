@@ -69,4 +69,32 @@ replicate lagging strand  <sub><i> &ensp; ( click to see more ... )</i></sub></s
 
 In the semi-conservative replication process, DNA helicase unwinds the double strand DNA into two single strands, each serving as a template for new DNA synthesis. Because DNA is antiparallel and DNA replication only occurs along one direction, the two strands are replicated by different mechanisms, using different enzymes. In eukaryotes, Pol-&alpha; combined with primase initializes the replication. The leading strand is replicated continuously by Pol-&epsilon;, while the lagging strand is replicated by Pol-&delta; in multiple okazaki fragments.
 
+## Notes: ##
 
+- Additional topics to cover: Topoisomerase; RNAse and ligase; origin recognition complex (ORC); Zinc finger fold.
+
+- While in vitro construct helicase-Pol-alpha and helicase-Pol-epsilon complexes have been reported, helicase-Pol-alpha-epsilon complexes like the one shown in the image do not actually exist. Additionally, even though the complexes can assemble together at certain conditions in vitro, the same formation does not necessarily exist in cells. The actual assembly is likely more dynamic and less ordered.
+
+- It seems that RPA can take multiple different conformations, and the arrangement that multiple RPAs chain along a single strand DNA is imaginary.
+
+## PDBs: ##
+7kc0, 8kg6, 8b9c, 6i52, 9f6f, 8foj, 3jc5, 8b9a.
+
+An AlphaFold structure is used to guide the arrangement of Pol-epsilon
+
+## References: ##
+https://doi.org/10.1073/pnas.2017637117
+
+https://doi.org/10.1038/s41467-023-41506-0
+
+https://doi.org/10.1016/j.molcel.2023.06.035
+
+https://doi.org/10.1038/s41467-018-07883-7
+
+https://doi.org/10.1038/s41467-023-39441-1
+
+https://doi.org/10.1038/s41594-024-01370-y
+
+https://doi.org/10.1038/nsmb.3170
+
+https://doi.org/10.1016/j.molcel.2023.06.035
