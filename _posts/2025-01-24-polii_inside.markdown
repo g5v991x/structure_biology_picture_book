@@ -36,7 +36,7 @@ permalink: /posts/polii_inside
 <use href="#path_1" class="shape" id="select_1"/>
 <use href="#path_2" class="shape" id="select_2"/>
 <use href="#path_3" class="shape" id="select_3"/>
-<use href="#path_4" class="shape" id="select_4"/>
+<a href="{{site.baseurl}}/posts/rna_pic_0"><use href="#path_4" class="shape" id="select_4"/></a>
 <a href="{{site.baseurl}}/posts/rna_polii_elongation_0"><use href="#path_5" class="shape" id="select_5"/></a>
 </svg>
 <!--#######################-->
