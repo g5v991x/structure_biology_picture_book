@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "Preinitiation Complex"
+date:   2025-01-24 00:00:00 0000
+categories: structure_biology
+permalink: /posts/rna_pic_1
+---
+
+{::nomarkdown}
+<div class='imageWrapper'>
+<img class="image0" src="{{ site.baseurl }}/assets/images/rna014.jpg" alt="preinitiation complex">
+<svg viewBox="0 0 160 90" class='image-area'>
+<!--#######################-->
+<defs>
+<mask id="myMask_0"><rect width="100%" height="100%" fill="white"/>
+  <path id="path_0" class="path" d="m80 12 5.1 0.47-11 6.9-5.9-1.5-1.4 7.7 4.1-1.1-2.8 4.8 4.3 8.2 3.1 3.2-3.2 9.9 2.4 1.3 4.7-7.1 10 1.5 1.8 2.2 9.7-5.1-4-8.8 10 3.9 0.24 3.8-17 7.3 3.4 6.4 1.7 6.2-8.9 11-23-3.9-9.8-5.6 3-4.6 12-0.59 12 3.8 2.6 0.47v-5l-6.7-1.1-5-5.6-17-3.2 1.4-18 7.2-2.2-4.3-4.5 5-5.2 2.5 0.47z"/></mask>
+<mask id="myMask_1"><rect width="100%" height="100%" fill="white"/>
+  <path id="path_1" class="path" d="m94 53-11 2.4 0.12 7.2-4.5 1.7-1.2 6.2 10 0.35 7.5-8.5z"/></mask>
+<mask id="myMask_2"><rect width="100%" height="100%" fill="white"/>
+  <path id="path_2" class="path" d="m97 0.71-10 9.1v3.8l-7 0.59-13 5-0.95 6.6 2.1 7.3 6.4 8.2-3.4 11 3.5 1.3 3.8-7.7 8.6 1.1 4.3 3.9 10-4.4-3.5-9.2 7.7 1.8-0.95 11 6.5 5 2-4.8-0.47-5.6 2.4-1.8-0.71-8.4-3.9-0.47 0.47-8.2 3.1-2.6-3.9-4.8-2.8-11z"/></mask>
+<mask id="myMask_3"><rect width="100%" height="100%" fill="white"/>
+  <path id="path_3" class="path" d="m12 90 11-18 18-16 9.3-6.9 7.1-0.35 14 2.5 6.6 4.7 5.8 2 8-7.2 9.3-5 0.59-2.4 9-6.2-0.83-9.5-17-22-5.4-3.3 0.47-2.1 2.7-0.71-0.24 1.8 4 0.95-0.95 3.5 17 22 2.7 1.3-1.4 7.7-8.2 5.4 3.1 3.5-1.9 3.5-12 6.9-2-4.4-6.7 6.2 1.3 4.1-4.8 1.1-13-3.9-12 2.1-6.5 11-8 9.7-1.2 6.7z"/></mask>
+</defs>
+<!--#######################-->
+<rect mask="url(#myMask_0)" class="background" id="background_0"/>
+<rect mask="url(#myMask_1)" class="background" id="background_1"/>
+<rect mask="url(#myMask_2)" class="background" id="background_2"/>
+<rect mask="url(#myMask_3)" class="background" id="background_3"/>
+<!--#######################-->
+<use href="#path_0" class="shape" id="select_0"/>
+<a href="{{site.baseurl}}/posts/polii_tata"><use href="#path_1" class="shape" id="select_1"/></a>
+<a href="{{site.baseurl}}/posts/polii_inside"><use href="#path_2" class="shape" id="select_2"/></a>
+<use href="#path_3" class="shape" id="select_3"/>
+<!--#######################-->
+<polygon id="background_4" points="4,45 10,40 10,50" fill="rgba(255, 255, 255, .8)"/>
+<polygon points="4,45 10,40 10,50" fill="rgba(200, 200, 200, .5)"/>
+<a href="{{site.baseurl}}/posts/rna_pic_0">
+<rect id="select_4" x="0%" y="30%" width="10%" height="40%" fill="rgba(200, 200, 200, .3)"/></a>
+<polygon id="background_5" points="156,45 150,40 150,50" fill="rgba(255, 255, 255, .8)"/>
+<polygon points="156,45 150,40 150,50" fill="rgba(200, 200, 200, .5)"/>
+<a href="{{site.baseurl}}/posts/rna_pic_2">
+<rect id="select_5" x="90%" y="30%" width="10%" height="40%" fill="rgba(200, 200, 200, .3)"/></a>
+</svg>
+<!--#######################-->
+<div class="overlay" id="textbox_0" ><b> Transcription initiation factors </b></div>
+<div class="overlay" id="textbox_1" ><b> TATA-box binding protein (TBP)  </b><small><sub><i> &ensp; ( click to see more ... )</i></sub></small></div>
+<div class="overlay" id="textbox_2" ><b> RNA polymerase II (Pol II)  </b> - <small>
+produce mRNA  <sub><i> &ensp; ( click to see more ... )</i></sub></small></div>
+<div class="overlay" id="textbox_3" ><b> Protein coding DNA </b></div>
+<div class="overlay" id="textbox_4" ><b> Previous step... </b></div>
+<div class="overlay" id="textbox_5" ><b> Next step... </b></div>
+</div>
+{:/}
+
+After the assembly of TFIID, Pol II and a few other transcription initiation factors are recruited to the PIC. The PIC also starts to bend the DNA, facilitating the separation of the double helix for the later steps of transcription.
+

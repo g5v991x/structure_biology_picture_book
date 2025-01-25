@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Preinitiation Complex"
+date:   2025-01-24 00:00:00 0000
+categories: structure_biology
+permalink: /posts/rna_pic_0
+---
+{::nomarkdown}
+<div class='imageWrapper'>
+<img class="image0" src="{{ site.baseurl }}/assets/images/rna012.jpg" alt="preinitiation complex">
+<!--#######################-->
+<svg viewBox="0 0 160 90" class='image-area'>
+<defs>
+<mask id="myMask_0"><rect width="100%" height="100%" fill="white"/>
+  <path id="path_0" class="path" d="m95 6 9.7 19 11-4.5 4.2 5 0.33 7.9 9.2 1.2-2.7 6.5-6 2.7-9.2-1.7-4 7-8.7-3.8-3.8 1.7 3 8.9-4.9 14-7.9 3-6.2-6.9-3.3 3.5-14-4 8.9-2.3 4.9-3.7 8.2 2.2-3.2-9.7-20 0.33-11 1.2 8.5-8.9 0.17-9.4 11-2.2-3.8-14 4.9-2.2 5 0.84 10-6.5 4.9 3z"/></mask>
+<mask id="myMask_1"><rect width="100%" height="100%" fill="white"/>
+  <path id="path_1" class="path" d="m80 71 0.33-8.7 7-3-3.3-8 5.4-6 6.5 4.9 2.8 9.5-5.9 11-9.4 3.7z"/></mask>
+<mask id="myMask_2"><rect width="100%" height="100%" fill="white"/>
+  <path id="path_2" class="path" d="m17 89 1-12 20-22 42-2.8 20-6.9 6.4 2.5 9-9.4 5-8-1.7-7.9-14-15-5.2-8.9 7.7 0.33 2.8 7.5 11 11 3.7 7.9-0.5 8.2-1.2 3-6.5-0.17-3.7 3.7 2.8 3.7-11 8.5-6.4 2.7-5-7.5-11 4.9 2.5 6-20 5.4-12 5.9-8.5 19z"/></mask>
+</defs>
+<!--#######################-->
+<rect mask="url(#myMask_0)" class="background" id="background_0"/>
+<rect mask="url(#myMask_1)" class="background" id="background_1"/>
+<rect mask="url(#myMask_2)" class="background" id="background_2"/>
+<!--#######################-->
+<use href="#path_0" class="shape" id="select_0"/>
+<a href="{{site.baseurl}}/posts/polii_tata"><use href="#path_1" class="shape" id="select_1"/></a>
+<use href="#path_2" class="shape" id="select_2"/>
+<!--#######################-->
+<polygon id="background_3" points="156,45 150,40 150,50" fill="rgba(255, 255, 255, .8)"/>
+<polygon points="156,45 150,40 150,50" fill="rgba(200, 200, 200, .5)"/>
+<a href="{{site.baseurl}}/posts/rna_pic_1">
+<rect id="select_3" x="90%" y="30%" width="10%" height="40%" fill="rgba(200, 200, 200, .3)"/></a>
+</svg>
+<!--#######################-->
+<div class="overlay" id="textbox_0" ><b> Transcription initiation factor IID (TFIID) </b></div>
+<div class="overlay" id="textbox_1" ><b> TATA-box binding protein (TBP)  </b><small><sub><i> &ensp; ( click to see more ... )</i></sub></small></div>
+<div class="overlay" id="textbox_2" ><b> Protein coding DNA </b></div>
+<div class="overlay" id="textbox_3" ><b> Next step... </b></div>
+</div>
+{:/}
+<!--#######################-->
+
+Transcription of mRNA starts from the formation of the preinitiation complex (PIC) on the promoter of a gene. At the first step of the PIC assembly, a TATA-box binding protein (TBP) binds to the TATA-box of a promoter, and the multisubunit complex called transcription initiation factor IID (TFIID) assembles along the DNA.
+
+## Notes: ##
+Many promoters do not have a TATA box. In those cases, the TFIID can be recruited to the promoter at alternative conformations.
+
+## References: ##
+
+https://doi.org/10.1126/science.aba8490

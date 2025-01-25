@@ -1,0 +1,70 @@
+---
+layout: post
+title:  "Preinitiation Complex"
+date:   2025-01-24 00:00:00 0000
+categories: structure_biology
+permalink: /posts/rna_pic_2
+---
+
+{::nomarkdown}
+<div class='imageWrapper'>
+<img class="image0" src="{{ site.baseurl }}/assets/images/rna013.jpg" alt="preinitiation complex">
+<svg viewBox="0 0 160 90" class='image-area'>
+<!--#######################-->
+<defs>
+<mask id="myMask_0"><rect width="100%" height="100%" fill="white"/>
+  <path id="path_0" class="path" d="m68 55-7.5 0.17 1.2 8.2 17 3.5 2.7 3.7-0.84 2.7-9.5-2-3 3.8 1.2 4.7 13 8.9 5.4-5.5 1.5-7.5 4.3 5.2 4.9-1.3 0.5-2.5 5.9 1 7.2-3-0.17-5.2-4.2-6.9-1.2 4.3-7.5-1.3-1.3 1.8-3.5-5.2-3-2.2-2.8 5.7-4.2-1.8-1.5-3.8-7.7-1.7-3.3 0.17z"/></mask>
+<mask id="myMask_1"><rect width="100%" height="100%" fill="white"/>
+  <path id="path_1" class="path" d="m79 69 3-4.7 5.4 1.2-0.5 6.5-3.2 4.2-5.7 1.2-0.84-4.3 5-3z"/></mask>
+<mask id="myMask_2"><rect width="100%" height="100%" fill="white"/>
+  <path id="path_2" class="path" d="m83 36-5.2 4.3 0.5 3.3-11 5.2v4.3l5 5.5 10 0.67 2.5 5 3.7-0.17 4.5-5.2-2.8-3.7-3.2-3.5 4.2-3.5 2.2-3.8-4-7z"/></mask>
+<mask id="myMask_3"><rect width="100%" height="100%" fill="white"/>
+  <path id="path_3" class="path" d="m61 33-4.7 0.5-3.2 6.4 5.5 2.5 3-0.84 11 5.5 4.3 19-15-3.2-5 5.2-2.7 22 15-0.17-1.7-19 13 0.33-2.5-5.4-4.7-20 3.2-1.2-12-7-6-0.33-1.2-1 4.9-1z"/></mask>
+<mask id="myMask_4"><rect width="100%" height="100%" fill="white"/>
+  <path id="path_4" class="path" d="m84 6.7-7.4 6.7 0.17 6 14 8.4-1.3 9.9 3 5.7 2.7 0.17-8 8.7 5.7 6.9 1.7 6 5.5 2.5 8.2-1.5-0.67-6.2 2.8-4.5 0.33 5.2 10 6.7 4.5-7.2-3.8-6.4 1.8-11 2-8.9-0.67-6.7-3.2-6.5 2.7-5.9-3.8-8.4-3.5-1.2-11 4.3-2.2 3.5-7-4.9-5.5-0.17z"/></mask>
+<mask id="myMask_5"><rect width="100%" height="100%" fill="white"/>
+  <path id="path_5" class="path" d="m146 0.17-5.9 7.7-3.3 7.5 3 7.7 7.2 2.2 13 11 1.2-13-2.2-5.9-0.5-5.5-1.5-4.2-2-7.5z"/></mask>
+</defs>
+<!--#######################-->
+<rect mask="url(#myMask_0)" class="background" id="background_0"/>
+<rect mask="url(#myMask_1)" class="background" id="background_1"/>
+<rect mask="url(#myMask_2)" class="background" id="background_2"/>
+<rect mask="url(#myMask_3)" class="background" id="background_3"/>
+<rect mask="url(#myMask_4)" class="background" id="background_4"/>
+<rect mask="url(#myMask_5)" class="background" id="background_5"/>
+<!--#######################-->
+<use href="#path_0" class="shape" id="select_0"/>
+<a href="{{site.baseurl}}/posts/polii_tata"><use href="#path_1" class="shape" id="select_1"/></a>
+<a href="{{site.baseurl}}/posts/polii_inside"><use href="#path_2" class="shape" id="select_2"/></a>
+<use href="#path_3" class="shape" id="select_3"/>
+<use href="#path_4" class="shape" id="select_4"/>
+<use href="#path_5" class="shape" id="select_5"/>
+<!--#######################-->
+<polygon id="background_6" points="4,45 10,40 10,50" fill="rgba(255, 255, 255, .8)"/>
+<polygon points="4,45 10,40 10,50" fill="rgba(200, 200, 200, .5)"/>
+<a href="{{site.baseurl}}/posts/rna_pic_1">
+<rect id="select_6" x="0%" y="30%" width="10%" height="40%" fill="rgba(200, 200, 200, .3)"/></a>
+</svg>
+<!--#######################-->
+<div class="overlay" id="textbox_0" ><b> Transcription initiation factors </b></div>
+<div class="overlay" id="textbox_1" ><b> TATA-box binding protein (TBP)  </b><small><sub><i> &ensp; ( click to see more ... )</i></sub></small></div>
+<div class="overlay" id="textbox_2" ><b> RNA polymerase II (Pol II)  </b> - <small>
+produce mRNA  <sub><i> &ensp; ( click to see more ... )</i></sub></small></div>
+<div class="overlay" id="textbox_3" ><b> Protein coding DNA </b></div>
+<div class="overlay" id="textbox_4" ><b> Mediator </b></div>
+<div class="overlay" id="textbox_5" ><b> Enhanceosome </b></div>
+<div class="overlay" id="textbox_6" ><b> Previous step... </b></div>
+</div>
+{:/}
+
+For the transcription of most genes, another multiprotein complex, called the Mediator, is also involved in the assembly of the PIC. The Mediator is a highly dynamic complex that interacts with various transcription factors and the Pol II. It is also involved in the enhancer regulated gene activation, serving as a bridge that transmits the signal from an enhancer to the nearby promoter and boosts the transcription of the corresponding gene.
+
+## References: ##
+
+https://doi.org/10.1126/science.abn8131
+
+http://dx.doi.org/10.1126/science.abg3074
+
+http://dx.doi.org/10.1038/s41594-023-01027-2
+
+https://doi.org/10.1038/s41580-022-00498-3
